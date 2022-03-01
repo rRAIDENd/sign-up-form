@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+
 html{
     margin: 0;
 }
 
 h1{
-    color: red;
+    font-family: 'Raleway', sans-serif;
 }
