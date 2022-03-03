@@ -4,6 +4,14 @@
     margin: 0;
 }
 
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+section{
+    background-color: rgb(153, 149, 149);
+}
+
 main{
     border: 1px solid black;
 
@@ -13,7 +21,7 @@ main{
     overflow: hidden;
 
     /* center align */
-    margin: 5vw auto;
+    margin: 8vw auto;
 
     display: flex;
     justify-content: space-evenly;
